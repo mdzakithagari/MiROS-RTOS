@@ -1,0 +1,9 @@
+../Core/Src/main.c:75:6:Blinky_1	8	static
+../Core/Src/main.c:93:6:Blinky_2	8	static
+../Core/Src/main.c:126:5:main	16	static
+../Core/Src/main.c:181:6:SystemClock_Config	80	static
+../Core/Src/main.c:223:13:MX_ETH_Init	8	static
+../Core/Src/main.c:270:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:303:13:MX_USB_OTG_FS_PCD_Init	8	static
+../Core/Src/main.c:337:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:397:6:Error_Handler	4	static,ignoring_inline_asm

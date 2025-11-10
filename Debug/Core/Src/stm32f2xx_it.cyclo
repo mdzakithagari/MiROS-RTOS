@@ -1,0 +1,8 @@
+../Core/Src/stm32f2xx_it.c:69:6:NMI_Handler	1
+../Core/Src/stm32f2xx_it.c:95:6:HardFault_Handler	1
+../Core/Src/stm32f2xx_it.c:107:6:HardFault_HandlerC	1
+../Core/Src/stm32f2xx_it.c:124:6:MemManage_Handler	1
+../Core/Src/stm32f2xx_it.c:139:6:BusFault_Handler	1
+../Core/Src/stm32f2xx_it.c:154:6:UsageFault_Handler	1
+../Core/Src/stm32f2xx_it.c:169:6:SVC_Handler	1
+../Core/Src/stm32f2xx_it.c:182:6:DebugMon_Handler	1

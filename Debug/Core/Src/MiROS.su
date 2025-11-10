@@ -1,0 +1,9 @@
+../Core/Src/MiROS.c:17:6:OSThread_start	32	static
+../Core/Src/MiROS.c:68:6:OS_init	24	static
+../Core/Src/MiROS.c:75:6:OS_sched	4	static
+../Core/Src/MiROS.c:94:6:OS_run	8	static,ignoring_inline_asm
+../Core/Src/MiROS.c:104:6:Idle_Task	4	static,ignoring_inline_asm
+../Core/Src/MiROS.c:113:6:OS_delay	16	static,ignoring_inline_asm
+../Core/Src/MiROS.c:123:6:OS_ticks	24	static
+../Core/Src/MiROS.c:142:29:PendSV_Handler	0	static,ignoring_inline_asm
+../Core/Src/MiROS.c:182:6:SysTick_Handler	8	static,ignoring_inline_asm
